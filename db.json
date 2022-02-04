@@ -1,0 +1,19 @@
+{
+bulding1 : [
+ [ floor1 : { "room" : "room1" , "floor_no" : 01} ],
+ [ floor2 : { "room" : "room2" , "floor_no" : 02} ],
+ [ floor3 : { "room" : "room3" , "floor_no" : 03} ],
+ [ floor4 : { "room" : "room4" , "floor_no" : 04} ],
+ [ floor5 : { "room" : "room5" , "floor_no" : 05} ],
+ [ floor6 : { "room" : "room6" , "floor_no" : 06} ],
+],
+
+bulding2 : [
+ [ floor1 : { "room" : "room1" , "floor_no" : 01} ],
+ [ floor2 : { "room" : "room2" , "floor_no" : 02} ],
+ [ floor3 : { "room" : "room3" , "floor_no" : 03} ],
+ [ floor4 : { "room" : "room4" , "floor_no" : 04} ],
+ [ floor5 : { "room" : "room5" , "floor_no" : 05} ],
+ [ floor6 : { "room" : "room6" , "floor_no" : 06} ], 
+]
+}
